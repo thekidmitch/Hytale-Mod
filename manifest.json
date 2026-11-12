@@ -1,0 +1,13 @@
+{
+  "Group": "com.mitch",
+  "Name": "AICompanion",
+  "Version": "1.0.0",
+  "Description": "An AI companion for Hytale",
+  "Authors": [
+    {
+      "Name": "Mitch"
+    }
+  ],
+  "Main": "com.mitch.aicompanion.AICompanionPlugin",
+  "IncludesAssetPack": false
+}

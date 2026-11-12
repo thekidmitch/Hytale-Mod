@@ -1,0 +1,12 @@
+{
+  "Group": "mitch",
+  "Name": "AICompanionData",
+  "Version": "1.0.0",
+  "Description": "NPC assets for AICompanion",
+  "Authors": [
+    {
+      "Name": "Mitch"
+    }
+  ],
+  "IncludesAssetPack": false
+}
